@@ -1,0 +1,9 @@
+J:\Implementation_partial\Implementation_partial\bin\Debug\Implementation_partial.exe.config
+J:\Implementation_partial\Implementation_partial\bin\Debug\Implementation_partial.exe
+J:\Implementation_partial\Implementation_partial\bin\Debug\Implementation_partial.pdb
+J:\Implementation_partial\Implementation_partial\obj\Debug\Implementation_partial.csprojResolveAssemblyReference.cache
+J:\Implementation_partial\Implementation_partial\obj\Debug\Implementation_partial.Properties.Resources.resources
+J:\Implementation_partial\Implementation_partial\obj\Debug\Implementation_partial.csproj.GenerateResource.Cache
+J:\Implementation_partial\Implementation_partial\obj\Debug\Implementation_partial.exe
+J:\Implementation_partial\Implementation_partial\obj\Debug\Implementation_partial.pdb
+J:\Implementation_partial\Implementation_partial\obj\Debug\Implementation_partial.UI.Form1.resources
